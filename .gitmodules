@@ -1,0 +1,3 @@
+[submodule "wrapper-offline"]
+	path = wrapper-offline
+	url = https://github.com/zulc22/Wrapper-Offline-Beta.git
